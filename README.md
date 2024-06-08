@@ -62,6 +62,7 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 ### House Prices Advanced Regression Techniques 				     
 - Leveraged regression analysis to develop a predictive model for forecasting house prices in the Iowa area
 - Visualized data correlations with seaborn, aiding investment decisions.
+  
 ![House_forecast](/assets/img/house_prices.jpg)
 
 ### Tech Industry Mental Health Data Manipulation
@@ -89,7 +90,7 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - **Programming Languages:** C, Python, C++
 
 ## PDF RESUME
-
+![PDF_resume](/assets/img/resume.jpeg)
 ## Contact
 
 Feel free to reach out to me at [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/haileetran).
