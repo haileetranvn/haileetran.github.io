@@ -63,7 +63,7 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - Leveraged regression analysis to develop a predictive model for forecasting house prices in the Iowa area
 - Visualized data correlations with seaborn, aiding investment decisions.
   
-![House_forecast](/assets/img/house_prices.jpg)
+![House_forecast](/assets/img/house_prices.png)
 
 ### Tech Industry Mental Health Data Manipulation
 - Conducted statistical analysis and used Python’s matplotlib to visualize survey data for different genders.
@@ -92,7 +92,7 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - **Programming Languages:** C, Python, C++
 
 ## PDF RESUME
-![PDF_resume](/assets/img/resume.png)
+![PDF_resume](/assets/img/resume.jpg)
 
 ## Contact
 
