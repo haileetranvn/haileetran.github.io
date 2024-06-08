@@ -41,7 +41,8 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 ## Work Experience
 
 **The Sourcing Co.** - Irvine, CA
-**Database Admin** (10/2022 - Present)
+
+**Database Admin**                                                                                                                                        (10/2022 - Present)
 -	Partner with a 15-member team from the private-label and administration departments to compile and sort over 50,000 orders into the FileMaker Pro database, document auditing to reduce data entry errors by 25% and enhancing operational workflow efficiency by 40%.
 -	Conduct in-depth research using Python to analyze a 3-year purchase history, identifying trends that align with the company's strategic goal, resulting in a 15% increase in customer retention and improving operational efficiency by 20%.
 -	Coordinate with the COO and Accounting Director to generate ad-hoc, weekly, monthly, and quarterly reports for Sales, Administration, and HR departments, generating actionable data-driven insights for executive decision-making and accelerating response time by 30%.
@@ -51,7 +52,8 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 
 
 **48 Bistro** - Brea, CA
-**Assistant Manager** (2020 - 2022)
+
+**Assistant Manager**                                                                                                                                            (2020 - 2022)
 - Spearheaded administrative duties focused on enhancing customer service, contributing to a 25% increase in customer satisfaction ratings.
 -	Managed 10 employees to organize over 20 successful events, boosting the restaurant’s reputation and event-based revenue by 10%.
 
