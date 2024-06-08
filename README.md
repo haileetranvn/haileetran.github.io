@@ -1,13 +1,19 @@
 # Tuyen Tran's Portfolio
 
 Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Business Administration with a concentration in Management Information Systems at California State University Long Beach. My expertise lies in data analysis, database management, and business application programming. 
-
-## A little bit about Me
-
 - **Location:** Santa Ana, CA
 - **Email:** [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haileetran)
-- My hobbies are photography, hiking, out-door activites.
+- 
+## A little bit about Me
+
+I'm a young, energetic, and passionate data analyst with a zest for life and a deep commitment to making a positive impact. Born in Vietnam, I embarked on my professional journey at the age of 19, diving into the service industry in F&B, where I spent four enriching years, including a stint at In-N-Out. My time in the service industry honed my skills in communication, teamwork, and problem-solving, laying a strong foundation for my future endeavors.
+
+Beyond my professional life, I'm an outdoorsy person with a keen eye for photography, especially using film and vintage cameras. Capturing the beauty of nature and the essence of my travels fuels my creative spirit and keeps me grounded. My love for nature and exploring new places constantly inspires me to seek new experiences and broaden my horizons.
+
+While my career path may seem unconventional, my ultimate goal is clear: to become the most successful first-generation professional in my family. Achieving this dream is not just about personal success; it's about enabling me to give back to my community. I aspire to dedicate my success to charity work and helping those less fortunate, turning my achievements into a source of hope and support for others.
+
+With a blend of professional dedication, personal passion, and a heart set on philanthropy, I'm excited about the journey ahead and the opportunities to make a meaningful difference.
 ![Profile Picture](/assets/img/profile_picture.jpeg)
 
  
