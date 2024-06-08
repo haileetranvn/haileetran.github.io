@@ -73,9 +73,10 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 ### Retail Sales and Inventory Management
 - Utilized SQL to extract, clean, and analyze data from multiple sources to support inventory management and sales analysis.
 ![Inventory Management](/assets/img/inventory_management.png)
+
 ### Inventory Management
 - Designed database schemas and managed inventory data using advanced SQL queries.
-## Marketing Dashboard using Tableau
+### Marketing Dashboard using Tableau
 [View Dashboard](https://public.tableau.com/views/MarketingDashboard_17177435198390/LinkedInDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### C++ Projects
@@ -90,7 +91,8 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - **Programming Languages:** C, Python, C++
 
 ## PDF RESUME
-![PDF_resume](/assets/img/resume.jpeg)
+![PDF_resume](/assets/img/resume.png)
+
 ## Contact
 
 Feel free to reach out to me at [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/haileetran).
