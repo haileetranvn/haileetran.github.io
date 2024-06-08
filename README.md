@@ -8,8 +8,9 @@ Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Busine
 - **Email:** [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haileetran)
 - My hobbies are photography, hiking, out-door activites.
+![Profile Picture](/assets/img/profile_picture.jpeg)
 
-  # (/images/profile_picture.jpeg) 
+ 
 ## Education
 
 **California State University Long Beach (CSULB)**
