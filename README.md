@@ -4,7 +4,7 @@ Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Busine
 - **Location:** Santa Ana, CA
 - **Email:** [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haileetran)
-- 
+  
 ## A little bit about Me
 
 I'm a young, energetic, and passionate data analyst with a zest for life and a deep commitment to making a positive impact. Born in Vietnam, I embarked on my professional journey at the age of 19, diving into the service industry in F&B, where I spent four enriching years, including a stint at In-N-Out. My time in the service industry honed my skills in communication, teamwork, and problem-solving, laying a strong foundation for my future endeavors.
@@ -59,17 +59,19 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 
 ## Projects
 
+### House Prices Advanced Regression Techniques 				     
+- Leveraged regression analysis to develop a predictive model for forecasting house prices in the Iowa area
+- Visualized data correlations with seaborn, aiding investment decisions.
+![House_forecast](/assets/img/house_prices.jpg)
+
 ### Tech Industry Mental Health Data Manipulation
 - Conducted statistical analysis and used Python’s matplotlib to visualize survey data for different genders.
 - Analyzed U.S. mental health issue survey using Python’s Panda and Seaborn.
+![Tech_industry](/assets/img/tech_industry.jpg)
   
-### Tech Industry Mental Health Data Visualization				   
-- Used Python’s matplotlib to visualize the survey answers vary among different genders
-- Concluded the analysis of the U.S. mental health issue survey with the help of Python’s Panda and Seaborn
-- 
 ### Retail Sales and Inventory Management
 - Utilized SQL to extract, clean, and analyze data from multiple sources to support inventory management and sales analysis.
-
+![Inventory Management](/assets/img/inventory_management.png)
 ### Inventory Management
 - Designed database schemas and managed inventory data using advanced SQL queries.
 ## Marketing Dashboard using Tableau
@@ -85,6 +87,8 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - **Process Documentation:** Microsoft Visio, Lucidchart
 - **Data Visualization:** Tableau, Power BI (DAX), MS Office (PowerPoint)
 - **Programming Languages:** C, Python, C++
+
+## PDF RESUME
 
 ## Contact
 
