@@ -2,12 +2,14 @@
 
 Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Business Administration with a concentration in Management Information Systems at California State University Long Beach. My expertise lies in data analysis, database management, and business application programming. 
 
-## About Me
+## A little bit about Me
 
 - **Location:** Santa Ana, CA
 - **Email:** [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haileetran)
+- My hobbies are photography, hiking, out-door activites.
 
+  # (/images/profile_picture.jpeg) 
 ## Education
 
 **California State University Long Beach (CSULB)**
