@@ -1,5 +1,3 @@
-# Tuyen Tran's Portfolio
-
 Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Business Administration with a concentration in Management Information Systems at California State University Long Beach. My expertise lies in data analysis, database management, and business application programming. 
 - **Location:** Santa Ana, CA
 - **Email:** [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com)
