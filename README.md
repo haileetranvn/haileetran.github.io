@@ -74,13 +74,14 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - Utilized SQL to extract, clean, and analyze data from multiple sources to support inventory management and sales analysis.
 ![Inventory Management](/assets/img/inventory_management.png)
 
-### Inventory Management
-- Designed database schemas and managed inventory data using advanced SQL queries.
-### Marketing Dashboard using Tableau
-[View Dashboard](https://public.tableau.com/views/MarketingDashboard_17177435198390/LinkedInDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
 ### C++ Projects
 - Developed various applications using C++ to enhance my programming skills and understanding of object-oriented design.
+  
+### Inventory Management
+- Designed database schemas and managed inventory data using advanced SQL queries.
+  
+### Marketing Dashboard using Tableau
+[View Dashboard](https://public.tableau.com/views/MarketingDashboard_17177435198390/LinkedInDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Skills
 
