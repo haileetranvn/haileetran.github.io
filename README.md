@@ -62,7 +62,8 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 ### House Prices Advanced Regression Techniques  				     
 - Leveraged regression analysis to develop a predictive model for forecasting house prices in the Iowa area
 - Visualized data correlations with seaborn, aiding investment decisions.
-[View Project](https://github.com/haileetranvn/House-Prices-Advanced-Regression-Techniques.git)  	  
+[View Project](https://github.com/haileetranvn/House-Prices-Advanced-Regression-Techniques.git)
+
 ![House_forecast](/assets/img/house_prices.png)
 
 ### Tech Industry Mental Health Data Manipulation
@@ -70,12 +71,14 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - Analyzed U.S. mental health issue survey using Python’s Panda and Seaborn.
 
 [View Project](https://github.com/haileetranvn/MENTAL-HEALTH-IN-TECH-INDUSTRY-ANALYSIS-AND-VISUAL.git)
+
 ![Tech_industry](/assets/img/tech_industry.jpg)  	  
 
 ### Retail Sales and Inventory Management
 - Utilized SQL to extract, clean, and analyze data from multiple sources to support inventory management and sales analysis.
 - Designed database schemas and managed inventory data using advanced SQL queries.
 [View Project](https://github.com/haileetranvn/SQL.git)
+
 ![Inventory Management](/assets/img/inventory_management.png)
 
 ### C++ Projects
