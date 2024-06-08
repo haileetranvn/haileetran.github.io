@@ -62,6 +62,7 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 ### House Prices Advanced Regression Techniques  				     
 - Leveraged regression analysis to develop a predictive model for forecasting house prices in the Iowa area
 - Visualized data correlations with seaborn, aiding investment decisions.
+  
 [View Project](https://github.com/haileetranvn/House-Prices-Advanced-Regression-Techniques.git)
 
 ![House_forecast](/assets/img/house_prices.png)
@@ -77,13 +78,16 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 ### Retail Sales and Inventory Management
 - Utilized SQL to extract, clean, and analyze data from multiple sources to support inventory management and sales analysis.
 - Designed database schemas and managed inventory data using advanced SQL queries.
+  
 [View Project](https://github.com/haileetranvn/SQL.git)
 
 ![Inventory Management](/assets/img/inventory_management.png)
 
 ### C++ Projects
 - Developed various applications using C++ to enhance my programming skills and understanding of object-oriented design.
+  
 [View Project](https://github.com/haileetranvn/program10.git)
+
 [View Project 2](https://github.com/haileetranvn/C-Project4.git)
 
 ### Marketing Dashboard using Tableau
