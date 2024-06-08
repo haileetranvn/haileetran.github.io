@@ -16,12 +16,13 @@ While my career path may seem unconventional, my ultimate goal is clear: to beco
 With a blend of professional dedication, personal passion, and a heart set on philanthropy, I'm excited about the journey ahead and the opportunities to make a meaningful difference.
 ![Profile Picture](/assets/img/profile_picture.jpeg)
 
- 
+# Data Analyst's Resume 
 ## Education
 
 **California State University Long Beach (CSULB)**
 - *2023 - Present*
 - Bachelor of Science in Business Administration; Concentration: Management Information Systems
+- Honors Student, Spring 2024 Dean's List
 - Relevant Coursework:
   - Database Management
   - Management Information System (SQL & ERP SAP)
@@ -32,9 +33,9 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 
 **Irvine Valley College**
 - *2019 - 2022*
-- Associate in Arts degree in Business
+- Associate in Arts degree in Business, graduated with Magna Cum Laude
 
-## Certificates
+## Certificates 
 
 - **IBM Excel Basics for Data Analysis** - April 2024
 - **IBM Python for Data Science, AI & Development** - February 2024
@@ -43,18 +44,18 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 
 **The Sourcing Co.** - Irvine, CA
 - **Database Admin** (10/2022 - Present)
-  - Partnered with a 15-member team to compile and sort over 50,000 orders into the FileMaker Pro database.
-  - Conducted data audits to reduce data entry errors by 25%, enhancing workflow efficiency by 40%.
-  - Used Python for analyzing a 3-year purchase history, resulting in a 15% increase in customer retention.
-  - Developed ad-hoc reports for Sales, Administration, and HR departments, accelerating response time by 30%.
-  - Utilized SQL to design database schemas for inventory management, contributing to a 10% increase in strategic decisions.
-  - Employed Excel functions like VLOOKUP/XLOOKUP and Pivot Tables to analyze order data and forecast trends.
-  - Created 10+ logistics and workflow dashboards with Tableau, improving operational efficiency by 22%.
+-	Partner with a 15-member team from the private-label and administration departments to compile and sort over 50,000 orders into the FileMaker Pro database, document auditing to reduce data entry errors by 25% and enhancing operational workflow efficiency by 40%.
+-	Conduct in-depth research using Python to analyze a 3-year purchase history, identifying trends that align with the company's strategic goal, resulting in a 15% increase in customer retention and improving operational efficiency by 20%.
+-	Coordinate with the COO and Accounting Director to generate ad-hoc, weekly, monthly, and quarterly reports for Sales, Administration, and HR departments, generating actionable data-driven insights for executive decision-making and accelerating response time by 30%.
+-	Utilize complex SQL queries to design database schemas and generate specialized reports for executives, contributing to a 10% increase in informed strategic decisions and optimizing data retrieval times by 35%.
+-	Employ advanced functions like VLOOKUP/XLOOKUP and Pivot Tables in Microsoft Excel to analyze order data, forecast trends with 90% accuracy, and enhance customer satisfaction scores by 18%, transforming data into actionable insights by creating 10+ detailed dashboards.
+-	Develop 10 logistics and workflow dashboards with Tableau, providing valuable insights for HR and administrative decision-making and improving overall operational efficiency by 22%.
+
 
 **48 Bistro** - Brea, CA
 - **Assistant Manager** (2020 - 2022)
-  - Enhanced customer service, leading to a 25% increase in customer satisfaction.
-  - Managed 10 employees to organize over 20 successful events, boosting the restaurant’s reputation and event revenue by 10%.
+- Spearheaded administrative duties focused on enhancing customer service, contributing to a 25% increase in customer satisfaction ratings.
+-	Managed 10 employees to organize over 20 successful events, boosting the restaurant’s reputation and event-based revenue by 10%.
 
 ## Projects
 
