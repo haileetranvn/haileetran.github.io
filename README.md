@@ -102,7 +102,7 @@ With a blend of professional dedication, personal passion, and a heart set on ph
 - **Programming Languages:** C, Python, C++
 
 ## PDF RESUME
-![PDF_resume](/assets/img/resume.jpg)
+![PDF_resume](/assets/img/resume.png)
 
 ## Contact
 
