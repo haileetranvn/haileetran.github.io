@@ -61,6 +61,7 @@ Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Busine
 
 ## Certificates 
 
+- **IBM Databases and SQL for Data Science with Python** - Jun 9, 2024
 - **IBM Excel Basics for Data Analysis** - April 2024
 - **IBM Python for Data Science, AI & Development** - February 2024
 
