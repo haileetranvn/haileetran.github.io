@@ -2,7 +2,7 @@ Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Busine
 - **Location:** Santa Ana, CA
 - **Email:** [haileetran0409@gmail.com](mailto:haileetran0409@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tuyen-tran-337619234/)
-- **Github:** [GitHub Repository](https://github.com/haileetranvn?tab=repositories)
+- **Github:** [GitHub Repositories](https://github.com/haileetranvn?tab=repositories)
   
 ## Projects
 
