@@ -5,7 +5,7 @@ Welcome to my portfolio! I am currently pursuing a Bachelor of Science in Busine
   
 ## A little bit about Me
 
-I'm a young, energetic, and passionate data analyst with a zest for life and a deep commitment to making a positive impact. Born in Vietnam, I embarked on my professional journey at the age of 19, diving into the service industry in F&B, where I spent four enriching years, including a stint at In-N-Out. My time in the service industry honed my skills in communication, teamwork, and problem-solving, laying a strong foundation for my future endeavors.
+I'm a young, energetic, and passionate data analyst with a zest for life and a deep commitment to making a positive impact. Born in Vietnam, I embarked on my professional journey at 19, diving into the service industry in F&B, where I spent four enriching years, including a stint at In-N-Out. My time in the service industry honed my communication, teamwork, and problem-solving skills, laying a strong foundation for my future endeavors.
 
 Beyond my professional life, I'm an outdoorsy person with a keen eye for photography, especially using film and vintage cameras. Capturing the beauty of nature and the essence of my travels fuels my creative spirit and keeps me grounded. My love for nature and exploring new places constantly inspires me to seek new experiences and broaden my horizons.
 
